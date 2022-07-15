@@ -1,9 +1,9 @@
 # Pre-Placement-Module-2023
 
-- Name: 
-- University Roll No.:
-- Branch:
-- Section:
+- Name: AYUSHI KAIM
+- University Roll No.: 2000290219002
+- Branch: EN
+- Section: C
 - Preferred Programming Language: C++/Java/Python
 
 ## Coding Profiles
